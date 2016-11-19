@@ -8,7 +8,7 @@ favicon: /favicon.png
 monochrome: true
 
 # view setting
-avatar: https://cn.gravatar.com/avatar/35fef74d731255cd569c2c2b0b9e87e4?s=200
+avatar: http://g.ulan.io/avatar/2c14779c5eda42d55286bd679ef7fa5f?s=200
 avatarLink: /about
 maxContentWidth: 1000px # set the main content column's max-width property. keep it blank to unlimited the width
 copyright: # the copyright text in the footer, could be richtext
@@ -27,10 +27,10 @@ nav:
     - archives   # display a collapsible archive list
   -
     -
-      name: Homepage
+      name: 首页
       url: '/'
     -
-      name: By Year
+      name: 文章
       url: /archives
   -
     -
